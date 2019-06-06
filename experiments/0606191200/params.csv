@@ -1,0 +1,2 @@
+;name;exclude_neuron_id;balancing;normalise;differencing;get_tsfresh;get_ISI_SPIKE;cell_nb;batch_size;epochs;samples;val_acc
+0;LSTM_Vanilla;True;undersample;False;False;False;False;64;32;3;5504;0.5931372549019608
