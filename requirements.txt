@@ -1,4 +1,4 @@
-pandas
+pandas=0.23.4
 matplotlib
 keras
 scikit-learn
