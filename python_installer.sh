@@ -28,6 +28,6 @@ if [ $INSTALL == 1 ]; then
 	sh $SCRIPT -b -p $MINICONDA_PATH
 	rm $SCRIPT
 	conda install --yes --file requirements.txt
-	conda install --yes -c conda-forge tsfresh xgboost imbalanced-learn
+	conda install --yes -c conda-forge tsfresh xgboost imbalanced-learn umap-learn
 fi
 
